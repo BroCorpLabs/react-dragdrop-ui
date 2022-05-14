@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Drag and Drop UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Built package to use drag and drop hunks in React
 
 ## Available Scripts
 
