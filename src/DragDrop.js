@@ -1,5 +1,5 @@
 import {useState, useEffect, useCallback} from 'react';
-import './App.css';
+import './App.module.css';
 import GenericModal from './utils/ui/GenericModal';
 import { Column, debounce, getMobileScaleRatio, guidGenerator, mergeDeep } from './utils/helpers';
 import SiteContext from './pageContext';
